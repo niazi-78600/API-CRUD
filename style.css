@@ -1,0 +1,16 @@
+
+  #add_button
+  {
+    background-color: rgb(29, 147, 250);
+  }
+ .recipe
+ {
+    margin-bottom: 15px;
+    padding:20px;
+    background-color:aquamarine;
+ }
+ .btn-sm
+ {
+    margin: 10px;
+    border-radius: 10px;
+ }
